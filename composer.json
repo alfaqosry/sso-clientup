@@ -1,0 +1,14 @@
+{
+    "name": "alfaqosry/sso-clientup",
+    "description": "Laravel SSO Client Package",
+    "autoload": {
+        "psr-4": {
+            "AlfaQosry\\SsoClient\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^10.0|^11.0",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
